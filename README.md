@@ -1,5 +1,5 @@
 ![Header](https://imageupload.io/ib/qdLSaGwNDhuereK_1693482081.png)
-<h1 align="center">Hi 👋, I'm Aklilu Jemal</h1>
+<h1 align="center">Hi 👋, I'm Aklilu Jemal Fita</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia</h3>
 <img align="right" alt="webdeveloper" with="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
