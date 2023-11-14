@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Javascript(Typescript), React, Node, Django**
 
-- 📫 How to reach me **weaba123abdu@gmail.com**
+- 📫 How to reach me **aklilufita@gmail.com**
 
-- ⚡ Fun fact **I think I am a quick learner**
+- ⚡ Fun fact **I possess a keen aptitude for rapid learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
